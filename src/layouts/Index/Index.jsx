@@ -2,7 +2,6 @@ import React from 'react';
 import NewProduct from './NewProduct';
 import PopularProduct from './PopularProduct';
 import HotSaleProduct from './HotSaleProduct';
-import Footer from '../Footer/Footer';
 import Carousel from '../../components/Carousel';
 import { SLIDES } from './Slides';
 
